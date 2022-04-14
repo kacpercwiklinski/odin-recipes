@@ -2,5 +2,3 @@
 ```
 You can check it here: https://kacpercwiklinski.github.io/odin-recipes
 ```
-## What I've learned:
-* 
